@@ -1998,6 +1998,12 @@ h1,  h2,  h3,  h4,  h5,  h6{
   border-color: rgb(78 107 255 / var(--tw-border-opacity));
 }
 
+@media (min-height: 468px){
+ .sheledit{
+max-width: 25vh; margin: 0;padding: 0;
+padding: 10px;
+ }   
+      }
 @media (min-width: 768px){
 
   .en{
